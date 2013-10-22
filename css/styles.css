@@ -2045,3 +2045,16 @@ td.form-table-value > input[type="checkbox"]
 {
 	cursor: pointer;
 }
+
+#main-logo
+{
+	display: block;
+	margin-bottom: 20px;
+}
+
+#dash-logo
+{
+	display       : block;
+	margin-left : 10px;
+	margin-bottom: 10px;
+}
